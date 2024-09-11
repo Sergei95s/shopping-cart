@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background: #111;
+  border-bottom: 1px solid #005eff;
+}
+
+.cart-counter {
+  font-size: 1.2em;
+  font-weight: bold;
+}
